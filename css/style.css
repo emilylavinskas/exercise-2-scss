@@ -1,0 +1,29 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.border, ul {
+  border: 1px solid #ccc;
+}
+
+.border p, ul p {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.primary-btn {
+  display: inline-block;
+  margin: 1em;
+  padding: .5em 1em;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #fff;
+  background: #298089;
+}
